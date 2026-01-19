@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Rajvetali/x7Rajvet-C2-Project/blob/main/logoo.jpg?raw=true" width="250" alt="x7Rajvet Logo">
-</p>
+>
 #🛡️ مشروع منظومة x7Rajvet C2 (التتبع المتقدم
 )
 <img src="https://github.com/Rajvetali/x7Rajvet-C2-Project/blob/main/logoo.jpg" width="600">
